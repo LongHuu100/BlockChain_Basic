@@ -13,3 +13,6 @@ Trong kết quả của hình "2.cryptocurrency-blockchain-terminal-image-two.jp
 
 # Năng lượng và tiền bạc
 Đế xác minh được một giao dịch như trên thì hằng trăm máy đào cũng thực hiện giải mã, mỗi máy tối đa 1triêu lần thì năng lượng tiêu hao quả thực khủng khiếp để có được một giao dịch thành công, mỗi lần xác mình thành công thì máy đào sẽ được thường một khoản nho nhỏ tùy theo cơ chế của đồng coin
+
+# A Peer-to-Peer Electronic Cash System
+https://bitcoin.org/bitcoin.pdf
