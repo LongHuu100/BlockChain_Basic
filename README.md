@@ -8,7 +8,7 @@ Hình "cryptocurrency-blockchain-terminal-image-two.jpe" kết quả mô phỏng
 Trong kết quả của hình "2.cryptocurrency-blockchain-terminal-image-two.jpeg" thì thấy các nonce cho chuỗi 1 là 175413, chuỗi 2 là: 76998.
 
 # Máy đào (minner)
-Để giải mã cho chuỗi 1 thì các máy đào sẽ phải thực hiện tối đa 1 triệu lần tính toán mã hash và so sánh cho đến khi nào gặp số 175413 thì mới xác thực xong một giao dịch.
+Để giải mã cho chuỗi 1 trong ví dụ trên thì các máy đào sẽ phải thực hiện tối đa 1 triệu lần tính toán mã hash và so sánh cho đến khi nào gặp số 175413 thì mới xác thực xong một giao dịch.
 
 
 # Năng lượng và tiền bạc
