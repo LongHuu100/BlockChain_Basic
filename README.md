@@ -1,6 +1,10 @@
 # BlockChain_Basic
 Khái quát cơ bản về cơ chế thực hiện một giao dịch của block và cách hoạt động của các máy đào
 
+Hình "Pow-trong-bitcoin.jpg" sẽ mô tả cách thức hoạt động của chuỗi block.
+
+Hình "cryptocurrency-blockchain-terminal-image-two.jpe" kết quả mô phỏng code js để chứng minh tính nhất quán của chuỗi.
+
 Trong kết quả của hình "2.cryptocurrency-blockchain-terminal-image-two.jpeg" thì thấy các nonce cho chuỗi 1 là 175413, chuỗi 2 là: 76998.
 
 # Máy đào (minner)
