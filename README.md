@@ -1,5 +1,6 @@
 # BlockChain_Basic
 Khái quát cơ bản về cơ chế thực hiện một giao dịch của block và cách hoạt động của các máy đào
+Nói đến blockchain thì không thể bỏ qua từ khóa "phân tán và cơ chế đồng thuận"
 
 Hình "Pow-trong-bitcoin.jpg" sẽ mô tả cách thức hoạt động của chuỗi block.
 
