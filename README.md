@@ -4,10 +4,13 @@ Khái quát cơ bản về cơ chế thực hiện một giao dịch của block
 Nói đến blockchain thì không thể bỏ qua từ khóa "phân tán và cơ chế đồng thuận"
 
 Hình "Pow-trong-bitcoin.jpg" sẽ mô tả cách thức hoạt động của chuỗi block.
+<img src="https://github.com/LongHuu100/BlockChain_Basic/blob/main/Pow-trong-bitcoin.jpg" />
 
 Hình "cryptocurrency-blockchain-terminal-image-two.jpe" kết quả mô phỏng code js để chứng minh tính nhất quán của chuỗi.
+<img src="https://github.com/LongHuu100/BlockChain_Basic/blob/main/cryptocurrency-blockchain-terminal-image-one.jpeg" />
 
 Trong kết quả của hình "2.cryptocurrency-blockchain-terminal-image-two.jpeg" thì thấy các nonce cho chuỗi 1 là 175413, chuỗi 2 là: 76998.
+<img src="https://github.com/LongHuu100/BlockChain_Basic/blob/main/2.cryptocurrency-blockchain-terminal-image-two.jpeg" />
 
 # Máy đào (minner)
 Để giải mã cho chuỗi 1 trong ví dụ trên thì các máy đào sẽ phải thực hiện tối đa 1 triệu lần tính toán mã hash và so sánh cho đến khi nào gặp số 175413 thì mới xác thực xong một giao dịch.
